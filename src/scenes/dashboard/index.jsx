@@ -282,4 +282,4 @@ const Dashboard = () => {
 };
 
 export default Dashboard;
-Footer
+
